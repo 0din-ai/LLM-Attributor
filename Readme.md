@@ -17,6 +17,7 @@ LLM Attributor helps you visualize training data attribution of text generation 
 </tr>
 </table>
 
+
 ## Feature Highlights
 <video width="100%" src='https://github.com/poloclub/LLM-Attributor/assets/5067740/62493798-394e-4579-b29a-8ad67f5790ff'></video>
 
@@ -48,6 +49,24 @@ You can try `disaster-demo.ipynb` and `finance-demo.ipynb` to try interactive vi
 
 ## Credits
 LLM Attributor is created by [Seongmin Lee](https://seongmin.xyz), [Jay Wang](https://zijie.wang), Aishwarya Chakravarthy, [Alec Helbling](https://alechelbling.com), [Anthony Peng](https://shengyun-peng.github.io), [Mansi Phute](https://mphute.github.io), [Polo Chau](https://poloclub.github.io/polochau/), and [Minsuk Kahng](https://minsuk.com).
+
+## Citation
+
+[**LLM Attributor: Interactive Visual Attribution for LLM Generation**](https://arxiv.org/abs/2404.01361).
+Seongmin Lee, Zijie J. Wang, Aishwarya Chakravarthy, Alec Helbling, ShengYun Peng, Mansi Phute, Duen Horng Chau, Minsuk Kahng.
+*AAAI 2025 (Demo).*
+
+```bibTeX
+@inproceedings{lee2025llm,
+  title={Llm attributor: Interactive visual attribution for llm generation},
+  author={Lee, Seongmin and Wang, Zijie J and Chakravarthy, Aishwarya and Helbling, Alec and Peng, ShengYun and Phute, Mansi and Chau, Duen Horng Polo and Kahng, Minsuk},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={28},
+  pages={29655--29657},
+  year={2025}
+}
+```
 
 ## License
 The software is available under the MIT License.
